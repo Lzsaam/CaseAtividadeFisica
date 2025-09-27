@@ -93,25 +93,25 @@ Payload:
 
 **GET** `http://localhost:8080/atividades`
 
-![GET listar todas atividades](docs/imagens/GetListarAtividades.png)
+![GET listar todas atividades](/AtividadeFisica/docs/imagens/GetListarAtividades.png)
 
 ### Buscar atividade por ID
 
 **GET** `http://localhost:8080/atividades/1`
 
-![GET Buscar Por id](docs/imagens/GetBuscarPorID.png)
+![GET Buscar Por id](/AtividadeFisica/docs/imagens/GetBuscarPorID.png)
 
 ### Listar atividades por funcional
 
 **GET** `http://localhost:8080/atividades/funcional/123456`
 
-![GET Listar por funcional](docs/imagens/Getlistarporfuncional.png)
+![GET Listar por funcional](/AtividadeFisica/docs/imagens/Getlistarporfuncional.png)
 
 ### Atualizar atividade
 
 **PUT** `http://localhost:8080/atividades/1`
 
-![PUT Atualizar Atividade](docs/imagens/PUT%20atualizar%20atividade.png)
+![PUT Atualizar Atividade](/AtividadeFisica/docs/imagens/PUT%20atualizar%20atividade.png)
 
 Payload:
 
@@ -127,8 +127,8 @@ Payload:
 ### Remover atividade
 
 **DELETE** `http://localhost:8080/atividades/1`
-![DELETE Remover Atividade](docs/imagens/DeletandoInsomnia.png)
-![DELETE Remover Atividade h2](docs/imagens/id9removidoH2.png)
+![DELETE Remover Atividade](/AtividadeFisica/docs/imagens/DeletandoInsomnia.png)
+![DELETE Remover Atividade h2](/AtividadeFisica/docs/imagens/id9removidoH2.png)
 
 
 ## 📂 Estrutura principal
